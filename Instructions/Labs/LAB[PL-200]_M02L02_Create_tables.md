@@ -113,13 +113,15 @@ the relationship between Knowledge Assessment and the CDM Feedback table.
 19. Enter **Difficulty** for **Display Name** and select **Choice** for **Data
     Type**.
 
-20. Select **+New choice** and enter Difficulty for Display Name.
+20. Under Sync this choice with Select **+New choice** and enter Difficulty for Display Name.
 
-21. Enter **Beginner** for **Item 1** and click **+New choice**.
+22. Enter **Difficulty** for **Display Name**
 
-22. Enter **Intermediate** for **Item 2** and click **+New choice**.
+21. Enter **Beginner** in Label for **Item 1** and click **+New choice**.
 
-23. Enter **Advanced** for **Item 3** and click **Save**.
+22. Enter **Intermediate** in Label for **Item 2** and click **+New choice**.
+
+23. Enter **Advanced** in Label for **Item 3** and click **Save**.
 
 24. Select **Difficulty** from drop-down for Sync this choice with and then select **Beginner** for the **Default choice**.
 
