@@ -221,9 +221,8 @@ the manager's decision.
 
 20. Open any Knowledge Assessment.
 
-21. Find the **Pop Out** button located in bottom left of the form and click on
-    it. (It will be in the bar at the very bottom of the page, and will be next
-    to the status of the record.)
+21. Find the **Pop Out** button located in top left of the form and click on
+    it.
 
 22. A new window will open. Copy the **URL** of the window.
 
